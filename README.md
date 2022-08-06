@@ -1,33 +1,32 @@
 
 </p>
 <p align="center">
-    <img src="[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/958029787820085278
-                            )](https://discord.com/users/958029787820085278)"alt="Discord Profile"/>   
+  <a href="https://discord.com/users/958029787820085278">
+    <img src="https://lanyard.cnrad.dev/api/958029787820085278"alt="Discord Profile"/>   
   </a>
 </p>
 
 ```js
-const Makara = {
+const Bestcim = {
     Name: 'Anıl',
     City: 'Bulgaristan',
     Age: '16',
-    FavoriteLanguage: "Graphic Design",
+    FavoriteLanguage: "Graphıc Desıgner , Python",
     },
     //Tanışmak isteyen olursa discordum yukarıda .d
 ```
 
 
 <div align="center">
-   <h1>Hi there, I'm <a href="https://hemant.codes">Makara</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://hemant.codes">Best</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
 <p align='center'>
-   <a src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/mustafa-sa%C4%Flam-66b05322a"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/makara_the"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/makara_the"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100084000633437"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
 
 
@@ -54,30 +53,50 @@ const Makara = {
 <p align="center">
 
 
-  <h3> I'm 16 years old Full-Stack developer from Turkey</h3>
+  <h3> I'm 16 years old Full-Stack designer from turkey</h3>
 </p>
 
- - 🥀 Learning Graphic & Design & Javascript
+ - 🥀 Learning Adobe & JavaScript & c++
  
  - <i>I am actively developing myself on these issues.</i>
 
- - I'm also designing on the discord platform
+ - I'm also botting on the discord platform
+ 
+ - I do fullstack and a bit of everything 
  
  - I'm trying to be the best
  
  
+ 
+ <p align="center">
+  <h4> Full Stack | Adobe | Graphic Designer </h4>
+   </p>
 
 <!-- makara -->
-
-<p align="center" >
-<a href="https://github.com/Bestcim/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=bestcim&&show_icons=true&theme=radical"/>
-  </a>
 
 </p>
 
 <br />
 
+### - Languages and Tools...
+
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</p>
 
 <!--
 ### - Blogs 🌱
@@ -118,7 +137,7 @@ const Makara = {
 
 <p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ in Turkey</p>
+<p align="center">Made with ❤️ in Bulgaria</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
