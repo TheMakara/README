@@ -8,10 +8,10 @@
 
 ```js
 const Makara = {
-    Name: 'Anıl',
+    Name: 'Anil',
     Country: 'Bulgaristan',
     Age: '16',
-    FavoriteLanguage: "Graphıc Desıgner , Python",
+    FavoriteLanguage: "Graphic Designer , Python",
     },
     //Tanışmak isteyen olursa discordum yukarıda .d
 ```
