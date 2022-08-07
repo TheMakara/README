@@ -7,8 +7,7 @@
 </p>
 
 ```js
-const Makara = {
-    Name: 'Anil',
+const Anil = {
     Country: 'Bulgaristan',
     Age: '16',
     FavoriteLanguage: "Graphic Designer , Python",
