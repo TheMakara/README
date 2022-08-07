@@ -7,7 +7,7 @@
 </p>
 
 ```js
-const Bestcim = {
+const Makara = {
     Name: 'Anıl',
     City: 'Bulgaristan',
     Age: '16',
