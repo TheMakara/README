@@ -7,9 +7,10 @@
 </p>
 
 ```js
-const Bestcim = {
+const Makara = {
+   
     Name: 'Anıl',
-    City: 'Bulgaristan',
+    Country: 'Bulgaristan',
     Age: '16',
     FavoriteLanguage: "Graphıc Desıgner , Python",
     },
