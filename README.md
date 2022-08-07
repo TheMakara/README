@@ -110,8 +110,8 @@ const Bestcim = {
 -->
 
 <p align="center" >
-<a href="https://github.com/Bestcim/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=bestcim&&show_icons=true&theme=radical"/>
+<a href="https://github.com/TheMakara/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=themakara&&show_icons=true&theme=radical"/>
   </a>
 
 
