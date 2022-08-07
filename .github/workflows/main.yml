@@ -8,7 +8,6 @@
 
 ```js
 const Makara = {
-   
     Name: 'Anıl',
     Country: 'Bulgaristan',
     Age: '16',
